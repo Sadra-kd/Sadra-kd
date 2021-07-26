@@ -22,9 +22,10 @@ skilled python developer using django framework with creative ideas (in web and 
 
 ![python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)
 ![linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux)
-![Javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript)
 ![sql](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=sql)
-
+![Javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS)
 
 
 
