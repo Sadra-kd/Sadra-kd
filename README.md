@@ -11,7 +11,7 @@ skilled python developer using django framework with creative ideas (in web and 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
--   👨🏽‍💻 I’m currently not working;
+-   👨🏽‍💻 I’m currently free;
 -   🌱 I’m currently working on lpic3 and bash scripting;
 -   💬 Ask me about anything, I am happy to help;
 -   📫 How to reach me: sadrakhodadadzade@gmail.com;
