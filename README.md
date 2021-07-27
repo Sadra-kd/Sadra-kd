@@ -18,6 +18,8 @@ skilled python developer using django framework with creative ideas (in web and 
 
 ### abilities 🌐
 
+
+
 -   Know/Using
 
 ![python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)
@@ -30,6 +32,8 @@ skilled python developer using django framework with creative ideas (in web and 
 
 
 ### Tools & Technologies 🛠️
+
+
 
 - Know/Using
 
