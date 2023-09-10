@@ -17,6 +17,13 @@
 -   💬 Ask me about anything, I am happy to help
 -   📫 Reach me at: sadrakhodadadzade@gmail.com
 
+### ABOUT ME 
+Experienced Go developer with a strong potency of designing and implementing high-performance, concurrent, and scalable software solutions. Proficient in leveraging Go's unique features to optimize code for speed and resource efficiency. Skilled in building server-side applications, microservices, and distributed systems, with a deep understanding of Go's standard libraries and tools. Adept at collaborating with cross-functional teams to deliver robust software solutions for diverse industries. Committed to writing clean, idiomatic Go code and staying up-to-date with best practices in software development. Passionate about solving complex challenges and driving innovation in the Go programming ecosystem. 
+
+
+
+
+
 ### Abilities 🌐
 
 
