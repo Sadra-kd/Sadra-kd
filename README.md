@@ -18,7 +18,7 @@
 -   📫 Contact Me: sadrakhodadadzade@gmail.com
 
 ### ABOUT ME 
-I am a dedicated Go developer who loves designing and building efficient software solutions. Over the years, I've enjoyed using Go’s concurrency model to create scalable applications and microservices. In addition to Go, I frequently rely on Python for scripting, Linux for my development environment, and Docker for containerization—ensuring consistent deployment and streamlined workflows.
+I am a dedicated Go developer who loves designing and building efficient software solutions. Over the time, I've enjoyed using Go’s concurrency model to create scalable applications and microservices. In addition to Go, I frequently rely on Python for scripting, Linux for my development environment, and Docker for containerization—ensuring consistent deployment and streamlined workflows.
 
 Beyond the core language, I’m proficient with frameworks and tools like GORM and Gin for smooth database interactions and web service creation, and gRPC for high-performance, reliable communication between services. I value strong problem-solving skills and strive to optimize each project I work on for speed, maintainability, and clarity. My experience with PostgreSQL also equips me to design robust and scalable data architectures.
 
